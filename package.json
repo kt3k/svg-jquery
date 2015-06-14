@@ -1,0 +1,19 @@
+{
+  "name": "svg-jquery",
+  "version": "1.0.0",
+  "description": "Svg as jquery object on node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha spec.js"
+  },
+  "author": "Yoshiya Hinosawa <stibium121@gmail.com> (https://twitter.com/kt3k)",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^2.3.0",
+    "jquery": "^2.1.4",
+    "jsdom": "^3.1.2"
+  },
+  "devDependencies": {
+    "chai": "^3.0.0"
+  }
+}
