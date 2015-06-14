@@ -2,6 +2,12 @@
 
 > Get svg as jquery object in jsdom env on node.js.
 
+# Install
+
+```sh
+npm install svg-jquery
+```
+
 # Usage
 
 ```js
