@@ -1,4 +1,4 @@
-# svg-jquery v1.0.0
+# svg-jquery v1.0.1
 
 > Get svg as jquery object in jsdom env on node.js.
 
