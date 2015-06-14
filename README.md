@@ -1,4 +1,4 @@
-# svg-jquery v1.0.1
+# svg-jquery v1.0.1 [![Build Status](https://travis-ci.org/kt3k/svg-jquery.svg?branch=master)](https://travis-ci.org/kt3k/svg-jquery)
 
 > Get svg as jquery object in jsdom env on node.js.
 
